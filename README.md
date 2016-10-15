@@ -1,7 +1,7 @@
 # first-report
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This project uses the salesforce.com platform to process quarterly report data for First In Families of North Caorlina. At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 ## Code Example
 
